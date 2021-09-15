@@ -5,12 +5,15 @@ bibliography: reproducibility.bib
 ---
 
 # Introduction
+<<<<<<< HEAD
+=======
 
 awæejfasdf
 
 sol
 f
 hjeeeelp
+<<<<<<< HEAD
 
 
 
@@ -23,3 +26,9 @@ hjeeeelp
 
 
 kanskje
+=======
+>>>>>>> 4d073278293788f75d9cdec3a00e2e02d4d8561d
+
+
+har me kanskje fått dette til no?
+>>>>>>> cf320852c51a7e2dd1034c420b9a24bfdcc9ac3d
