@@ -5,3 +5,12 @@ bibliography: reproducibility.bib
 ---
 
 # Introduction
+<<<<<<< HEAD
+=======
+
+awæejfasdf
+
+sol
+f
+hjeeeelp
+>>>>>>> 4d073278293788f75d9cdec3a00e2e02d4d8561d
