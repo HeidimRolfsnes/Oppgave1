@@ -5,5 +5,3 @@ bibliography: reproducibility.bib
 ---
 
 # Introduction
-
-awæejfasdf
