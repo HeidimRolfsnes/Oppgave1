@@ -1,0 +1,9 @@
+---
+title: "Can R Notebooks help with reproducibility?"
+output: html_notebook
+bibliography: reproducibility.bib
+---
+
+# Introduction
+
+awæejfasdf
