@@ -9,8 +9,8 @@ bibliography: reproducibility.bib
 
 # Introduction
 
-Reproducibility means that you should be able to repeat a research with
-the same data and procedures that were used in an article.
+Definition: Reproducibility means that you should be able to repeat a
+research with the same data and procedures that were used in an article.
 
 The terms reproducibility and replicability are used interchangeably in
 scientific circles. Some groups believe that reproducibility means
