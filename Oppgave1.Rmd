@@ -7,10 +7,7 @@ output:
 bibliography: reproducibility.bib
 ---
 
-##Introduction
-
-Barbara R.Jasny writes in an article that as new technologies produce
-more and different data to work with the knowledge [@jasny_again_2011]
+# Introduction
 
 Definition: Reproducibility means that you should be able to repeat a
 research with the same data and procedures that were used in an article.
@@ -21,9 +18,19 @@ repeating an investigation in an article using the same data, while
 replicability means doing it again, preferably with new data, but
 getting the same response. While other groups believe the opposite.
 
-## Facts
+## Benefits
 
-## Case
+As we have writtten about before, we use reproducibility to repeat a
+research using the same data but with a separate twist.
+
+Barbara R. Jasny et al. writes in an article that new technology is
+constantly emerging, and produces new data in different variants, which
+increases the expectations for new knowledge. [@jasny_again_2011]. By
+increasing the expectations of the data, we can also see an increase in
+the expectations for the content.
+
+Although a test is reproducible, the quality may not be as good.
+
+## Disadvantages
 
 #### referances
-
