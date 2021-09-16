@@ -2,23 +2,16 @@
 title: "Can R Notebooks help with reproducibility?"
 output:
   word_document: default
-<<<<<<< HEAD
-  html_notebook: default
-=======
   html_document:
     df_print: paged
->>>>>>> Gren1
 bibliography: reproducibility.bib
 ---
 
-
+##Introduction
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
 
-h
->>>>>>> Kvist1
-=======
 Definition: Reproducibility means that you should be able to repeat a
 research with the same data and procedures that were used in an article.
 
@@ -33,4 +26,4 @@ getting the same response. While other groups believe the opposite.
 ## Case
 
 #### referances
->>>>>>> Gren1
+
