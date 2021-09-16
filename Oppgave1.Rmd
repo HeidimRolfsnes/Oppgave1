@@ -13,6 +13,8 @@ bibliography: reproducibility.bib
 
 ## Facts
 
+reprodusertbarhet er viktig
+
 ## Case
 
 #### referances
