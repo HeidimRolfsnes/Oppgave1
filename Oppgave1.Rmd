@@ -42,6 +42,6 @@ and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
 solve other scientific areas.\@goodman_what_2016
 
-#### referances
+#### referances 
 
 @goodman_what_2016
