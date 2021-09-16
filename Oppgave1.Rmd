@@ -7,22 +7,15 @@ output:
 bibliography: reproducibility.bib
 ---
 
-
-##Introduction
+\#\#Introduction
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
 
+## Definition:
 
-Definition: Reproducibility means that you should be able to repeat a
-research with the same data and procedures that were used in an article.
-
-
-The terms reproducibility and replicability are used interchangeably in
-scientific circles. Some groups believe that reproducibility means
-repeating an investigation in an article using the same data, while
-replicability means doing it again, preferably with new data, but
-getting the same response. While other groups believe the opposite.
+Reproducibility means that you should be able to repeat a research with
+the same data and procedures that were used in an article.
 
 ## Benefits
 
@@ -51,6 +44,11 @@ investigation in an article using the same data, and replicability means
 doing it again, preferably with new data, but getting the same response.
 While other groups believe the opposite.
 
+There is also another minus with reproducibility and that is that the
+result you have obtained can be built on by others who in turn can use
+it to develop new ideas or other methods. It may lead to further errors
+if the article was initially incorrect.
+
 ## Solution
 
 First of all, a solution could be that the scientific enviroment came
@@ -64,7 +62,8 @@ and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
 solve other scientific areas.\@goodman_what_2016
 
-#### referances 
+#### referances
+
+\<div id="refs"\>\</div\>
 
 @goodman_what_2016
-
