@@ -7,3 +7,13 @@ bibliography: reproducibility.bib
 ---
 
 # Introduction
+<<<<<<< HEAD
+=======
+
+### facts:
+
+Barbara R.Jasny writes in an article that as new technologies produce
+more and different data to work with the knowledge [@jasny_again_2011]
+
+h
+>>>>>>> Kvist1
