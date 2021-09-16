@@ -7,7 +7,7 @@ output:
 bibliography: reproducibility.bib
 ---
 
-##Introduction
+\#\#Introduction
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
@@ -15,15 +15,34 @@ more and different data to work with the knowledge [@jasny_again_2011]
 Definition: Reproducibility means that you should be able to repeat a
 research with the same data and procedures that were used in an article.
 
-The terms reproducibility and replicability are used interchangeably in
-scientific circles. Some groups believe that reproducibility means
-repeating an investigation in an article using the same data, while
-replicability means doing it again, preferably with new data, but
-getting the same response. While other groups believe the opposite.
+## Ulemper 
 
-## Facts
+Steven N. Goodman et al. are writing in their article that
+reproducibility, replicability, reliability, robustness, and
+generalizability are used interchangeably in, for example, scientific
+environments. The terms seem to be a confusion in the literature and it
+can make it difficult to rely on a scientific result For their part, it
+is mostly for use in the biomedical field, but there is great faith that
+this could also solve other scientific areas.@goodman_what_2016
+An example: Some groups believes reproducibility means repeating an
+investigation in an article using the same data, and replicability means
+doing it again, preferably with new data, but getting the same response.
+While other groups believe the opposite.
 
-## Case
+## Solution
+
+First of all, a solution could be that the scientific enviroment came
+together to create and definition to each of the different concepts
+reproducibility, replicability, reliability, robustness, and
+generalizability. It would have made the concepts easier to use and
+which in turn had given a common understanding of what was used at any
+given time.
+Steven N. Goodman et al. want to divide it into three different
+elements: methods reproducibility, results reproducibility, and
+inferential repro- ducibility. For their part, it is mostly for use in
+the biomedical field, but there is great faith that this could also
+solve other scientific areas.@goodman_what_2016
 
 #### referances
 
+@goodman_what_2016
