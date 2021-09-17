@@ -7,12 +7,20 @@ output:
 bibliography: reproducibility.bib
 ---
 
-\#\#Introduction
+
+##Introduction
+
+
+R Notebooks can help with reproducibility because ....
+
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
 
-Definition: Reproducibility means that you should be able to repeat a
+
+##Definition: 
+
+Reproducibility means that you should be able to repeat a
 research with the same data and procedures that were used in an article.
 
 The terms reproducibility and replicability are used interchangeably in
@@ -20,6 +28,31 @@ scientific circles. Some groups believe that reproducibility means
 repeating an investigation in an article using the same data, while
 replicability means doing it again, preferably with new data, but
 getting the same response. While other groups believe the opposite.
+
+
+**R notebook** is an R Markdown document with chunks that can be
+executed independently and interactively, with output visible
+immediately beneath the input @grolemund_r_nodate [***(skrevet rett av
+og må fikses)***]{.ul}
+
+Regarding to K. Bollen et al. in the national Science Foundation the
+definitions for reproducibility, replicability and generalization is
+clear:
+
+**Reproducibility** means that a researcher have the opportunity to use
+the result of a prior study and repeat the research with the same data
+and procedures that were used in the orginal study. For the find to be
+credible and informative that reproducibility is a minimum necessary
+condition. @bollen_social_2015
+
+**Replicability** is when a researcher follows the same procedures as in
+an earlier study and manages to get the same result, but by collecting
+new data. @bollen_social_2015
+
+**Generalizability** refers to whether the result of a study apply in
+other context or populations that differ from the original one
+[***skrevet rett av og må fikses***]{.ul} @bollen_social_2015
+
 
 ## Benefits
 
@@ -48,6 +81,11 @@ investigation in an article using the same data, and replicability means
 doing it again, preferably with new data, but getting the same response.
 While other groups believe the opposite.
 
+There is also another minus with reproducibility and that is that the
+result you have obtained can be built on by others who in turn can use
+it to develop new ideas or other methods. It may lead to further errors
+if the article was initially incorrect.
+
 ## Solution
 
 First of all, a solution could be that the scientific enviroment came
@@ -61,6 +99,15 @@ and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
 solve other scientific areas.\@goodman_what_2016
 
-#### referances
+
+
+## Referances
 
 @goodman_what_2016
+
+@bollen_social_2015
+
+@jasny_again_2011
+
+@grolemund_r_nodate
+
