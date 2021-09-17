@@ -64,9 +64,9 @@ solve other scientific areas.\@goodman_what_2016
 ### Is there a perfect code? 
 
 Nick Barnes who works in the Climate Code Foundation writes in an
-article that researchers don't have to put so much emphasis on coding in
-their work, because the benefit of sharing raw data can be greater than
-writing a perfect code.
+article from 2010, that researchers don't have to put so much emphasis
+on coding in their work, because the benefit of sharing raw data can be
+greater than writing a perfect code.
 
 He further writes that if we share raw data that performs the job it is
 supposed to, the intention with the data is in place. So why not share
