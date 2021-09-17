@@ -7,7 +7,7 @@ output:
 bibliography: reproducibility.bib
 ---
 
-\#\#Introduction
+## 
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
@@ -20,6 +20,8 @@ scientific circles. Some groups believe that reproducibility means
 repeating an investigation in an article using the same data, while
 replicability means doing it again, preferably with new data, but
 getting the same response. While other groups believe the opposite.
+
+[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 ## Benefits
 
