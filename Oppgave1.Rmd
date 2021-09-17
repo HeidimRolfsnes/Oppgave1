@@ -61,7 +61,7 @@ and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
 solve other scientific areas.\@goodman_what_2016
 
-### Is there a perfect code? 
+### Is there a perfect code?
 
 Nick Barnes who works in the Climate Code Foundation writes in an
 article from 2010, that researchers don't have to put so much emphasis
