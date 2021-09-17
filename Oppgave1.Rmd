@@ -1,6 +1,6 @@
 ---
 title: "Can R Notebooks help with reproducibility?"
-author: "Ann elisabeth Jacobsen og Heidi Marie Rolfsnes"
+author: "Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 date: "September 2021"
 output:
   pdf_document: default
