@@ -61,6 +61,31 @@ and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
 solve other scientific areas.\@goodman_what_2016
 
+### Is there a perfect code? 
+
+Nick Barnes who works in the Climate Code Foundation writes in an
+article that researchers don't have to put so much emphasis on coding in
+their work, because the benefit of sharing raw data can be greater than
+writing a perfect code.
+
+He further writes that if we share raw data that performs the job it is
+supposed to, the intention with the data is in place. So why not share
+it then.
+
+He points out that in 2007 NASA released a software that wasn't
+completely finished, but by releasing it before it was completely
+finished, they received held along the way so that it became both better
+and more user-friendly. Even if they got help, it didn't mean that NASA
+had released a bad program or taht the result after they released the
+first version gave a slighty worse result. NASA took the change with
+them and made the software even better.
+
+In Conclusin, he writes that researchers must work together to create
+space to release raw data, so that we can benefit from each other's help
+to not always strive for perfectionism before we publish. But this is
+not something researchers nedd to do alone they also need help from the
+community around them [@barnes_publish_2010].
+
 #### referances
 
 @goodman_what_2016
