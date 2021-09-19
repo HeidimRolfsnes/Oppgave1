@@ -104,7 +104,7 @@ generalizability are used interchangeably in, for example, scientific
 environments. The terms seem to be a confusion in the literature and it
 can make it difficult to rely on a scientific result For their part, it
 is mostly for use in the biomedical field, but there is great faith that
-this could also solve other scientific areas.\@goodman_what_2016
+this could also solve other scientific areas.@goodman_what_2016
 
 An example: Some groups believes reproducibility means repeating an
 investigation in an article using the same data, and replicability means
