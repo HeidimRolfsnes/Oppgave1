@@ -16,9 +16,9 @@ bibliography: reproducibility.bib
 R is a programming language that since its inception in 1993 has had a
 great growth in recent years, as programming has become a more popular
 career choice and are now used by many. It was originally designed to be
-used interactively, where users first should get an answar and then get
+used interactively, where users first should get an answer and then get
 new answer by evolving the commands. In recent times, it has become a
-language that has evolved to cope with greater challanges. R can produce
+language that has evolved to cope with greater challenges. R can produce
 large graphs and reports. R is now used in many different research
 environments. R Can be perceived as more difficult than it is, if one
 hasn't been involved in programming before. But if one spends time
@@ -30,7 +30,7 @@ R Notebooks can be used to organize the methods that are used in a study
 or even the result. That will make it reproducibility. R Notebooks can
 help with reproducibility because the R Notebook also easily can be
 shared between colleagues or partners who works with the same studies or
-forexample are sharing an analyse. It is actually a great tool for
+for example are sharing an analyse. It is actually a great tool for
 sharing an analyse or even a vizualtion. It can be used in many
 different fields. An Example is if there is need for a statistical
 analysis R would be to great tool to use.
@@ -89,7 +89,7 @@ When the scientists agree on the definitions of the various terms, the R
 notebook can be a good help further. As previously mentioned, the R
 notebook is a good tool when it comes to organizing methods or results
 so that it is reproducible. Using the R notebook will also make the
-study more efficient and easier to share analyzes with other colleagues
+study more efficient and easier to share analyses with other colleagues
 or other scientists.
 
 Picture 1:
@@ -132,7 +132,7 @@ generalizability are used interchangeably in, for example, scientific
 environments. The terms seem to be a confusion in the literature and it
 can make it difficult to rely on a scientific result For their part, it
 is mostly for use in the biomedical field, but there is great faith that
-this could also solve other scientific areas.\@goodman_what_2016.
+this could also solve other scientific areas.@goodman_what_2016.
 
 An example: Some groups believes reproducibility means repeating an
 investigation in an article using the same data, and replicability means
