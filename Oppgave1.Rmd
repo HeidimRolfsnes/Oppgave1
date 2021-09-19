@@ -3,10 +3,10 @@ title: "Can R Notebooks help with reproducibility?"
 author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 date: "September 2021"
 output:
-  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+  word_document: default
 bibliography: reproducibility.bib
 ---
 
@@ -104,7 +104,7 @@ generalizability are used interchangeably in, for example, scientific
 environments. The terms seem to be a confusion in the literature and it
 can make it difficult to rely on a scientific result For their part, it
 is mostly for use in the biomedical field, but there is great faith that
-this could also solve other scientific areas.\@goodman_what_2016
+this could also solve other scientific areas.@goodman_what_2016
 
 An example: Some groups believes reproducibility means repeating an
 investigation in an article using the same data, and replicability means
@@ -127,7 +127,7 @@ given time. Steven N. Goodman et al. want to divide it into three
 different elements: methods reproducibility, results reproducibility,
 and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
-solve other scientific areas.\@goodman_what_2016
+solve other scientific areas.@goodman_what_2016
 
 Bollen et al. says that scientists should document all the information
 in the procedures they use when collecting data - right down to the
@@ -135,7 +135,7 @@ level of detail. It will make it easier and more effective for
 researchers who comes after using the same report and get the same
 results as the original researchers. It will not only reproduce
 reproducibility, but they will also be able to provide more information.
-\@bollen_social_2015
+@bollen_social_2015
 
 #### Is there a perfect code?
 
