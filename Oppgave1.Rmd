@@ -187,9 +187,9 @@ rmarkdown_workflow.png
 
 Roger Peng.PNG
 
+![](Skjermbilde%20av%20git%20history.PNG)
+
 ```{r Oppgave1}
 sessionInfo()
 
 ```
-
-![](Skjermbilde%20av%20git%20history.PNG)
