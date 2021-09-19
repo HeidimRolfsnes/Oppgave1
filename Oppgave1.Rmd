@@ -1,52 +1,66 @@
 ---
 title: "Can R Notebooks help with reproducibility?"
+author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
+address: "Haugesund, Norway"
+date: "September 2021"
 output:
-  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
+  word_document: default
 bibliography: reproducibility.bib
 ---
 
-<<<<<<< HEAD
-\#\#Introduction
-
-R Notebooks can help with reproducibility because ....
-=======
-
-
-##Introduction
-
+Introduction
 
 R Notebooks can help with reproducibility because ....
 
->>>>>>> bea810ab9b792a3ff0758e9dd1a7dc3536aa2651
+R Notebooks can be used to organize the methods that are used in a study
+or even the result. That will make it reproducibility. R Notebooks can
+help with reproducibility because the R Notebook also easily can be
+shared between colleagues or partners who works with the same studies or
+forexample are sharing an analyse. It is actually a great tool for
+sharing an analyse or even a vizualtion. It can be used in many
+different fields. An Example is if there is need for a statistical
+analysis R would be to great tool to use.
+
+
+
+
+
+
+In R there is a command that can run and reproducible document again
+from start to it is finished, which is very important for a reproducible
+document. In addition, it is easy to test the notebooks for
+reproducibility.
+
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
 
-<<<<<<< HEAD
-\#\#Definition:
+
+:
 
 Reproducibility means that you should be able to repeat a research with
 the same data and procedures that were used in an article.
-=======
 
 ##Definition: 
 
 Reproducibility means that you should be able to repeat a
 research with the same data and procedures that were used in an article.
->>>>>>> bea810ab9b792a3ff0758e9dd1a7dc3536aa2651
+
+
+**R notebook** "is an R Markdown document with chunks that can be
+executed independently and interactively, with output visible
+immediately beneath the
+[input"\@grolemund_r\_nodate](mailto:input%22@grolemund_r_nodate){.email}.
+
 
 The terms reproducibility and replicability are used interchangeably in
 scientific circles. Some groups believe that reproducibility means
 repeating an investigation in an article using the same data, while
 replicability means doing it again, preferably with new data, but
 getting the same response. While other groups believe the opposite.
-
-**R notebook** is an R Markdown document with chunks that can be
-executed independently and interactively, with output visible
-immediately beneath the input @grolemund_r_nodate [***(skrevet rett av
-og må fikses)***]{.ul}
 
 Regarding to K. Bollen et al. in the national Science Foundation the
 definitions for reproducibility, replicability and generalization is
@@ -62,20 +76,42 @@ condition. @bollen_social_2015
 an earlier study and manages to get the same result, but by collecting
 new data. @bollen_social_2015
 
-**Generalizability** refers to whether the result of a study apply in
-other context or populations that differ from the original one
-[***skrevet rett av og må fikses***]{.ul} @bollen_social_2015
+**Generalizability** "refers to whether the result of a study apply in
+other context or populations that differ from the original one"
+@bollen_social_2015
 
-<<<<<<< HEAD
-=======
+
+
+>>>>>>> e0e54d3721b3799bb5fe51d51f8c8b6b4040b7b6
 
 >>>>>>> bea810ab9b792a3ff0758e9dd1a7dc3536aa2651
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
+R Notebook with R Markdown
 
-## Benefits
+![](rmarkdown_workflow.png){width="361"}
 
-As we have writtten about before, we use reproducibility to repeat a
+## **Reproducibility**
+
+If there is already a published article and there is a new scientist who
+wants to make an analyse using the same data from that article it will
+only be reproducibility if the new result is the same as in the already
+published article. There is benefits and disadvantages with
+reproducibility and that is important to look into. Some scientists have
+also tried to find some solution to the issues with mixing up
+reproducibility, replicability and generalizability, because the
+scientific environment have different opinions about what means what.
+
+When the scientists agree on the definitions of the various terms, the R
+notebook can be a good help further. As previously mentioned, the R
+notebook is a good tool when it comes to organizing methods or results
+so that it is reproducible. Using the R notebook will also make the
+study more efficient and easier to share analyzes with other colleagues
+or other scientists.
+
+### Benefits
+
+As we have written about before, we use reproducibility to repeat a
 research using the same data but with a separate twist.
 
 Barbara R. Jasny et al. writes in an article that new technology is
@@ -86,7 +122,7 @@ the expectations for the content.
 
 Although a test is reproducible, the quality may not be as good.
 
-## Disadvantages
+### Disadvantages
 
 Steven N. Goodman et al. are writing in their article that
 reproducibility, replicability, reliability, robustness, and
@@ -94,8 +130,9 @@ generalizability are used interchangeably in, for example, scientific
 environments. The terms seem to be a confusion in the literature and it
 can make it difficult to rely on a scientific result For their part, it
 is mostly for use in the biomedical field, but there is great faith that
-this could also solve other scientific areas.\@goodman_what_2016 An
-example: Some groups believes reproducibility means repeating an
+this could also solve other scientific areas.\@goodman_what_2016.
+
+An example: Some groups believes reproducibility means repeating an
 investigation in an article using the same data, and replicability means
 doing it again, preferably with new data, but getting the same response.
 While other groups believe the opposite.
@@ -105,9 +142,9 @@ result you have obtained can be built on by others who in turn can use
 it to develop new ideas or other methods. It may lead to further errors
 if the article was initially incorrect.
 
-## Solution
+### Solution
 
-First of all, a solution could be that the scientific enviroment came
+First of all, a solution could be that the scientific environment came
 together to create and definition to each of the different concepts
 reproducibility, replicability, reliability, robustness, and
 generalizability. It would have made the concepts easier to use and
@@ -116,8 +153,15 @@ given time. Steven N. Goodman et al. want to divide it into three
 different elements: methods reproducibility, results reproducibility,
 and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
-solve other scientific areas.\@goodman_what_2016
+solve other scientific areas @goodman_what_2016.
 
+Bollen et al. says that scientists should document all the information
+in the procedures they use when collecting data - right down to the
+level of detail. It will make it easier and more effective for
+researchers who comes after using the same report and get the same
+results as the original researchers. It will not only reproduce
+reproducibility, but they will also be able to provide more information
+@bollen_social_2015.
 
 ### Is there a perfect code?
 
@@ -134,27 +178,30 @@ He points out that in 2007 NASA released a software that wasn't
 completely finished, but by releasing it before it was completely
 finished, they received held along the way so that it became both better
 and more user-friendly. Even if they got help, it didn't mean that NASA
-had released a bad program or taht the result after they released the
-first version gave a slighty worse result. NASA took the change with
+had released a bad program or that the result after they released the
+first version gave a slightly worse result. NASA took the change with
 them and made the software even better.
 
-In Conclusin, he writes that researchers must work together to create
+In Conclusion, he writes that researchers must work together to create
 space to release raw data, so that we can benefit from each other's help
 to not always strive for perfectionism before we publish. But this is
-not something researchers nedd to do alone they also need help from the
+not something researchers need to do alone they also need help from the
 community around them [@barnes_publish_2010].
 
-#### referances 
+### *Referances*
 
+::: {#refs}
+:::
 
-@goodman_what_2016
-
-@bollen_social_2015
-
-@jasny_again_2011
+### *Appendix*
 
 @grolemund_r_nodate
-<<<<<<< HEAD
+
 =======
 
 >>>>>>> bea810ab9b792a3ff0758e9dd1a7dc3536aa2651
+=======
+rmarkdown_workflow.png
+
+Roger Peng.PNG
+
