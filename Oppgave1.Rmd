@@ -74,16 +74,6 @@ new data. @bollen_social_2015
 other context or populations that differ from the original one"
 @bollen_social_2015
 
-<<<<<<< HEAD
-### Pictures
-
-[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
-=======
-R Notebook with R Markdown
-
-![](rmarkdown_workflow.png){width="361"}
->>>>>>> 42d08952fdf39354f0dff2d06fe6216e2c8b355d
-
 ## **Reproducibility**
 
 If there is already a published article and there is a new scientist who
@@ -209,20 +199,13 @@ use the same data.
 
 ### Referances
 
-<<<<<<< HEAD
 ::: {#refs}
 :::
-=======
-### *Appendix*
-
-@grolemund_r_nodate
->>>>>>> 42d08952fdf39354f0dff2d06fe6216e2c8b355d
 
 rmarkdown_workflow.png
 
 Roger Peng.PNG
 
-<<<<<<< HEAD
 ### Appendix
 
 ```{r Informasjon}
