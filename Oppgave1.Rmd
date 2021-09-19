@@ -64,6 +64,8 @@ other context or populations that differ from the original one"
 
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
+![](rmarkdown_workflow.png){width="361"}
+
 **Reproducibility**
 
 If there is already a published article and there is a new scientist who
