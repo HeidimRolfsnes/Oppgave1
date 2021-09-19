@@ -3,16 +3,26 @@ title: "Can R Notebooks help with reproducibility?"
 author: "Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 date: "September 2021"
 output:
-  pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
+  pdf_document: default
 bibliography: reproducibility.bib
 ---
 
 ## Introduction
 
-R Notebooks can help with reproducibility because ....
+R Notebooks can help with reproducibility because the R Notebook easily
+can be shared between colleagues or partners who works with the same
+articles or forexemple are sharing an analyse. It is actually a great
+tool for sharing an analyse or even a vizualtion. It can be used in many
+different fields. An Example is if there is need for a statistical
+analysis R would be to great tool to use.
+
+In R there is a command that can run and reproducible document again
+from start to it is finished, which is very important for a reproducible
+document. In addition, it is easy to test the notebooks for
+reproducibility.
 
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
@@ -23,6 +33,12 @@ more and different data to work with the knowledge [@jasny_again_2011]
 executed independently and interactively, with output visible
 immediately beneath the input @grolemund_r_nodate [***(skrevet rett av
 og må fikses)***]{.ul}
+
+The terms reproducibility and replicability are used interchangeably in
+scientific circles. Some groups believe that reproducibility means
+repeating an investigation in an article using the same data, while
+replicability means doing it again, preferably with new data, but
+getting the same response. While other groups believe the opposite.
 
 Regarding to K. Bollen et al. in the national Science Foundation the
 definitions for reproducibility, replicability and generalization is
@@ -42,17 +58,18 @@ new data. @bollen_social_2015
 other context or populations that differ from the original one
 [***skrevet rett av og må fikses***]{.ul} @bollen_social_2015
 
-The terms reproducibility and replicability are used interchangeably in
-scientific circles. Some groups believe that reproducibility means
-repeating an investigation in an article using the same data, while
-replicability means doing it again, preferably with new data, but
-getting the same response. While other groups believe the opposite.
-
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
+
+**Reproducibility**
+
+If there is already a published article and there is a new scientist who
+wants to make an analyse using the same data from that article it will
+only be reproducibility if the new result is the same as in the already
+published article.
 
 ## Benefits
 
-As we have writtten about before, we use reproducibility to repeat a
+As we have written about before, we use reproducibility to repeat a
 research using the same data but with a separate twist.
 
 Barbara R. Jasny et al. writes in an article that new technology is
@@ -71,8 +88,9 @@ generalizability are used interchangeably in, for example, scientific
 environments. The terms seem to be a confusion in the literature and it
 can make it difficult to rely on a scientific result For their part, it
 is mostly for use in the biomedical field, but there is great faith that
-this could also solve other scientific areas.\@goodman_what_2016 An
-example: Some groups believes reproducibility means repeating an
+this could also solve other scientific areas.\@goodman_what_2016
+
+An example: Some groups believes reproducibility means repeating an
 investigation in an article using the same data, and replicability means
 doing it again, preferably with new data, but getting the same response.
 While other groups believe the opposite.
@@ -114,7 +132,7 @@ had released a bad program or taht the result after they released the
 first version gave a slighty worse result. NASA took the change with
 them and made the software even better.
 
-In Conclusin, he writes that researchers must work together to create
+In Conclusion, he writes that researchers must work together to create
 space to release raw data, so that we can benefit from each other's help
 to not always strive for perfectionism before we publish. But this is
 not something researchers nedd to do alone they also need help from the
