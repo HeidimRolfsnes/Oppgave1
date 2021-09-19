@@ -1,7 +1,7 @@
 ---
 title: "Can R Notebooks help with reproducibility?"
 author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
-Adress: "Haugesund, Norway"
+Address: "Haugesund, Norway"
 date: "September 2021"
 output:
   pdf_document: default
