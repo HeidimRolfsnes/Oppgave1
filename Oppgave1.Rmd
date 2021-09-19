@@ -4,10 +4,10 @@ author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 address: "Haugesund, Norway"
 date: "September 2021"
 output:
-  pdf_document: default
+  word_document: default
   html_document:
     df_print: paged
-  word_document: default
+  pdf_document: default
 bibliography: reproducibility.bib
 ---
 
@@ -24,37 +24,26 @@ sharing an analyse or even a vizualtion. It can be used in many
 different fields. An Example is if there is need for a statistical
 analysis R would be to great tool to use.
 
-
-
-
-
-
 In R there is a command that can run and reproducible document again
 from start to it is finished, which is very important for a reproducible
 document. In addition, it is easy to test the notebooks for
 reproducibility.
 
-
 Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
-
-
-
 
 Reproducibility means that you should be able to repeat a research with
 the same data and procedures that were used in an article.
 
-##Definition: 
+\#\#Definition:
 
-Reproducibility means that you should be able to repeat a
-research with the same data and procedures that were used in an article.
-
+Reproducibility means that you should be able to repeat a research with
+the same data and procedures that were used in an article.
 
 **R notebook** "is an R Markdown document with chunks that can be
 executed independently and interactively, with output visible
 immediately beneath the
 [input"\@grolemund_r\_nodate](mailto:input%22@grolemund_r_nodate){.email}.
-
 
 The terms reproducibility and replicability are used interchangeably in
 scientific circles. Some groups believe that reproducibility means
@@ -79,8 +68,6 @@ new data. @bollen_social_2015
 **Generalizability** "refers to whether the result of a study apply in
 other context or populations that differ from the original one"
 @bollen_social_2015
-
-
 
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
@@ -197,4 +184,3 @@ community around them [@barnes_publish_2010].
 rmarkdown_workflow.png
 
 Roger Peng.PNG
-
