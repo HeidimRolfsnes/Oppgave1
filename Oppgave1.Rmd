@@ -4,10 +4,10 @@ author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 address: "Haugesund, Norway"
 date: "September 2021"
 output:
-  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+  word_document: default
 bibliography: reproducibility.bib
 ---
 
@@ -74,10 +74,6 @@ new data. @bollen_social_2015
 other context or populations that differ from the original one"
 @bollen_social_2015
 
-R Notebook with R Markdown
-
-![](rmarkdown_workflow.png){width="361"}
-
 ## **Reproducibility**
 
 If there is already a published article and there is a new scientist who
@@ -97,6 +93,19 @@ study more efficient and easier to share analyzes with other colleagues
 or other scientists.
 
 ### Benefits
+
+The advantage is the opportunity you have to gain a greater insight into
+the amount of data or methods that make it easier to achieve the same
+result as the one in the first study.
+
+Using the R notebook also makes it easier to double check so that errors
+are avoided. It is also simpler to get the result confirmed.
+
+With using R Notebook and R markdown it can convert the article into
+PDF, Word etc and you can use it with knitr that is a good tool to use
+with analyses or to other statistic.
+
+![](rmarkdown_workflow.png){width="361"}
 
 As we have written about before, we use reproducibility to repeat a
 research using the same data but with a separate twist.
@@ -177,19 +186,30 @@ to not always strive for perfectionism before we publish. But this is
 not something researchers need to do alone they also need help from the
 community around them [@barnes_publish_2010]
 
-### *Referances*
+#### **Code Chunk**
 
-### *Appendix*
+"R code chunks can be used as a means render R output into documents or
+to simply display code for illustration". @grolemund_r_nodate
 
-@grolemund_r_nodate
+Chunk is a feature that can be used to more easily get information about
+the study. It can show when the study was made and which packages were
+used. It is important for reproducibility that the next scientist
+receives as much information as possible about the study so that he can
+use the same data.
+
+### Referances
+
+::: {#refs}
+:::
 
 rmarkdown_workflow.png
 
 Roger Peng.PNG
 
-![](Skjermbilde%20av%20git%20history.PNG)
+### Appendix
 
-```{r Oppgave1}
-sessionInfo()
+### ![](Skjermbilde%20av%20git%20history.PNG)
 
+```{r Information}
+sessioninfo::session_info()
 ```
