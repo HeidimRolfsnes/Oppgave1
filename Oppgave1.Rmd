@@ -32,7 +32,7 @@ more and different data to work with the knowledge [@jasny_again_2011]
 
 ## Definition
 
-***R notebook*** "is an R Markdown document with chunks that can be
+**R notebook** "is an R Markdown document with chunks that can be
 executed independently and interactively, with output visible
 immediately beneath the input"@grolemund_r_nodate.
 
@@ -60,7 +60,7 @@ new data. @bollen_social_2015
 other context or populations that differ from the original one"
 @bollen_social_2015
 
-### Picture
+### Pictures
 
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
@@ -119,7 +119,7 @@ result you have obtained can be built on by others who in turn can use
 it to develop new ideas or other methods. It may lead to further errors
 if the article was initially incorrect.
 
-#### Solution
+### Solution
 
 First of all, a solution could be that the scientific environment came
 together to create and definition to each of the different concepts
@@ -140,7 +140,7 @@ results as the original researchers. It will not only reproduce
 reproducibility, but they will also be able to provide more information
 @bollen_social_2015.
 
-#### Is there a perfect code?
+### Is there a perfect code?
 
 Nick Barnes who works in the Climate Code Foundation writes in an
 article from 2010, that researchers don't have to put so much emphasis
@@ -165,12 +165,12 @@ to not always strive for perfectionism before we publish. But this is
 not something researchers need to do alone they also need help from the
 community around them [@barnes_publish_2010].
 
-#### *Referances*
+### *Referances*
 
 ::: {#refs}
 :::
 
-#### **Appendix**
+### *Appendix*
 
 rmarkdown_workflow.png
 
