@@ -92,6 +92,10 @@ so that it is reproducible. Using the R notebook will also make the
 study more efficient and easier to share analyzes with other colleagues
 or other scientists.
 
+Picture 1:
+
+![](Roger%20Peng.PNG)
+
 ### Benefits
 
 The advantage is the opportunity you have to gain a greater insight into
@@ -104,6 +108,8 @@ are avoided. It is also simpler to get the result confirmed.
 With using R Notebook and R markdown it can convert the article into
 PDF, Word etc and you can use it with knitr that is a good tool to use
 with analyses or to other statistic.
+
+Picture 2:
 
 ![](rmarkdown_workflow.png){width="361"}
 
@@ -137,8 +143,6 @@ There is also another minus with reproducibility and that is that the
 result you have obtained can be built on by others who in turn can use
 it to develop new ideas or other methods. It may lead to further errors
 if the article was initially incorrect.
-
-[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 ### Solution
 
@@ -202,9 +206,9 @@ use the same data.
 ::: {#refs}
 :::
 
-rmarkdown_workflow.png
+Picture 1 Roger Peng.PNG
 
-Roger Peng.PNG
+Picture 2 rmarkdown_workflow.png
 
 ### Appendix
 
