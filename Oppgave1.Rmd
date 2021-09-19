@@ -59,13 +59,13 @@ new data. @bollen_social_2015
 other context or populations that differ from the original one*
 @bollen_social_2015
 
-### Picture 
+### Picture
 
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 ![](rmarkdown_workflow.png){width="361"}
 
-## **Reproducibility** 
+## **Reproducibility**
 
 If there is already a published article and there is a new scientist who
 wants to make an analyse using the same data from that article it will
@@ -104,7 +104,7 @@ generalizability are used interchangeably in, for example, scientific
 environments. The terms seem to be a confusion in the literature and it
 can make it difficult to rely on a scientific result For their part, it
 is mostly for use in the biomedical field, but there is great faith that
-this could also solve other scientific areas.@goodman_what_2016
+this could also solve other scientific areas.\@goodman_what_2016
 
 An example: Some groups believes reproducibility means repeating an
 investigation in an article using the same data, and replicability means
@@ -127,7 +127,7 @@ given time. Steven N. Goodman et al. want to divide it into three
 different elements: methods reproducibility, results reproducibility,
 and inferential repro- ducibility. For their part, it is mostly for use
 in the biomedical field, but there is great faith that this could also
-solve other scientific areas.@goodman_what_2016
+solve other scientific areas.\@goodman_what_2016
 
 Bollen et al. says that scientists should document all the information
 in the procedures they use when collecting data - right down to the
@@ -165,3 +165,9 @@ community around them [@barnes_publish_2010].
 #### Referances
 
 \<div id="refs"\>\</div\>
+
+#### **Appendix**
+
+rmarkdown_workflow.png
+
+Roger Peng.PNG
