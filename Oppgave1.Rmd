@@ -15,16 +15,16 @@ bibliography: reproducibility.bib
 
 R is a programming language that since its inception in 1993 has had a
 great growth in recent years, as programming has become a more popular
-career choice and are used by many. It was originally designed to be
+career choice and are now used by many. It was originally designed to be
 used interactively, where users first should get an answar and then get
-new answer by evolving the commands. in recent times, it has become a
+new answer by evolving the commands. In recent times, it has become a
 language that has evolved to cope with greater challanges. R can produce
 large graphs and reports. R is now used in many different research
 environments. R Can be perceived as more difficult than it is, if one
 hasn't been involved in programming before. But if one spends time
 learning it, the benefits can be great, in the field of analysis and
 research. then the results can be more reliable and credible. In R there
-are different scripts like R Markdown and R Notebooks.
+are different scripts like R Markdown and R Notebooks.[@lander_r_2017]
 
 R Notebooks can be used to organize the methods that are used in a study
 or even the result. That will make it reproducibility. R Notebooks can
@@ -40,7 +40,7 @@ from start to it is finished, which is very important for a reproducible
 document. In addition, it is easy to test the notebooks for
 reproducibility.
 
-\#\#Definition:
+## Definition:
 
 Reproducibility means that you should be able to repeat a research with
 the same data and procedures that were used in an article.
@@ -73,8 +73,6 @@ new data. @bollen_social_2015
 **Generalizability** "refers to whether the result of a study apply in
 other context or populations that differ from the original one"
 @bollen_social_2015
-
-[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 R Notebook with R Markdown
 
@@ -130,6 +128,8 @@ There is also another minus with reproducibility and that is that the
 result you have obtained can be built on by others who in turn can use
 it to develop new ideas or other methods. It may lead to further errors
 if the article was initially incorrect.
+
+[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 ### Solution
 
