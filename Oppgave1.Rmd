@@ -74,8 +74,6 @@ new data. @bollen_social_2015
 other context or populations that differ from the original one"
 @bollen_social_2015
 
-[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
-
 R Notebook with R Markdown
 
 ![](rmarkdown_workflow.png){width="361"}
@@ -130,6 +128,8 @@ There is also another minus with reproducibility and that is that the
 result you have obtained can be built on by others who in turn can use
 it to develop new ideas or other methods. It may lead to further errors
 if the article was initially incorrect.
+
+[![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 ### Solution
 
