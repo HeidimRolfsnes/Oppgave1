@@ -15,8 +15,8 @@ bibliography: reproducibility.bib
 R Notebooks can be used to organize the methods that are used in a study
 or even the result. That will make it reproducibility. R Notebooks can
 help with reproducibility because the R Notebook also easily can be
-shared between colleagues or partners who works with the same articles
-or forexemple are sharing an analyse. It is actually a great tool for
+shared between colleagues or partners who works with the same studies or
+forexemple are sharing an analyse. It is actually a great tool for
 sharing an analyse or even a vizualtion. It can be used in many
 different fields. An Example is if there is need for a statistical
 analysis R would be to great tool to use.
@@ -31,10 +31,9 @@ more and different data to work with the knowledge [@jasny_again_2011]
 
 ## Definition:
 
-**"R notebook** is an R Markdown document with chunks that can be
+***R notebook** is an R Markdown document with chunks that can be
 executed independently and interactively, with output visible
-immediately beneath the input" @grolemund_r_nodate [***(skrevet rett av
-og må fikses)***]{.ul}
+immediately beneath the input. \@grolemund_r\_nodate*
 
 The terms reproducibility and replicability are used interchangeably in
 scientific circles. Some groups believe that reproducibility means
@@ -56,9 +55,9 @@ condition. @bollen_social_2015
 an earlier study and manages to get the same result, but by collecting
 new data. @bollen_social_2015
 
-**"Generalizability** refers to whether the result of a study apply in
-other context or populations that differ from the original one"
-[***skrevet rett av og må fikses***]{.ul} @bollen_social_2015
+***Generalizability** refers to whether the result of a study apply in
+other context or populations that differ from the original one*
+@bollen_social_2015
 
 ### Picture 
 
@@ -66,12 +65,23 @@ other context or populations that differ from the original one"
 
 ![](rmarkdown_workflow.png){width="361"}
 
-**Reproducibility**
+## **Reproducibility** 
 
 If there is already a published article and there is a new scientist who
 wants to make an analyse using the same data from that article it will
 only be reproducibility if the new result is the same as in the already
-published article.
+published article. There is benefits and disadvantages with
+reproducibility and that is important to look into. Some scientists have
+also tried to find some solution to the issues with mixing up
+reproducibility, replicability and generalizability, because the
+scientific environment have different opinions about what means what.
+
+When the scientists agree on the definitions of the various terms, the R
+notebook can be a good help further. As previously mentioned, the R
+notebook is a good tool when it comes to organizing methods or results
+so that it is reproducible. Using the R notebook will also make the
+study more efficient and easier to share analyzes with other colleagues
+or other scientists.
 
 ### Benefits
 
@@ -108,7 +118,7 @@ if the article was initially incorrect.
 
 #### Solution
 
-First of all, a solution could be that the scientific enviroment came
+First of all, a solution could be that the scientific environment came
 together to create and definition to each of the different concepts
 reproducibility, replicability, reliability, robustness, and
 generalizability. It would have made the concepts easier to use and
@@ -153,3 +163,5 @@ not something researchers nedd to do alone they also need help from the
 community around them [@barnes_publish_2010].
 
 #### Referances
+
+\<div id="refs"\>\</div\>
