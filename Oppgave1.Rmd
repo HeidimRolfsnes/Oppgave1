@@ -208,13 +208,6 @@ Roger Peng.PNG
 
 ### Appendix
 
-```{r Informasjon}
-sessioninfo::session_info()
-=======
-![](Skjermbilde%20av%20git%20history.PNG)
+### ![](Skjermbilde%20av%20git%20history.PNG)
 
-```{r Oppgave1}
-sessionInfo()
-
->>>>>>> 42d08952fdf39354f0dff2d06fe6216e2c8b355d
-```
+\`\`\`{r Informasjon} sessioninfo::session_info()
