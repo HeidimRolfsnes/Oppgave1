@@ -109,9 +109,9 @@ With using R Notebook and R markdown it can convert the article into
 PDF, Word etc and you can use it with knitr that is a good tool to use
 with analyses or to other statistic.
 
-Picture 2:
-
 ![](rmarkdown_workflow.png){width="361"}
+
+Picture 2:@toolsfo
 
 As we have written about before, we use reproducibility to repeat a
 research using the same data but with a separate twist.
@@ -205,6 +205,8 @@ use the same data.
 
 ::: {#refs}
 :::
+
+Pictures:@toolsfo
 
 Picture 1 Roger Peng.PNG
 
