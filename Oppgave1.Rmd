@@ -191,3 +191,5 @@ Roger Peng.PNG
 sessionInfo()
 
 ```
+
+![](Skjermbilde%20av%20git%20history.PNG)
