@@ -4,16 +4,27 @@ author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 address: "Haugesund, Norway"
 date: "September 2021"
 output:
-  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+  word_document: default
 bibliography: reproducibility.bib
 ---
 
-Introduction
+# Introduction
 
-R Notebooks can help with reproducibility because ....
+R is a programming language that since its inception in 1993 has had a
+great growth in recent years, as programming has become a more popular
+career choice and are used by many. It was originally designed to be
+used interactively, where users first should get an answar and then get
+new answer by evolving the commands. in recent times, it has become a
+language that has evolved to cope with greater challanges. R can produce
+large graphs and reports. R is now used in many different research
+environments. R Can be perceived as more difficult than it is, if one
+hasn't been involved in programming before. But if one spends time
+learning it, the benefits can be great, in the field of analysis and
+research. then the results can be more reliable and credible. In R there
+are different scripts like R Markdown and R Notebooks.
 
 R Notebooks can be used to organize the methods that are used in a study
 or even the result. That will make it reproducibility. R Notebooks can
@@ -28,12 +39,6 @@ In R there is a command that can run and reproducible document again
 from start to it is finished, which is very important for a reproducible
 document. In addition, it is easy to test the notebooks for
 reproducibility.
-
-Barbara R.Jasny writes in an article that as new technologies produce
-more and different data to work with the knowledge [@jasny_again_2011]
-
-Reproducibility means that you should be able to repeat a research with
-the same data and procedures that were used in an article.
 
 \#\#Definition:
 
@@ -170,12 +175,9 @@ In Conclusion, he writes that researchers must work together to create
 space to release raw data, so that we can benefit from each other's help
 to not always strive for perfectionism before we publish. But this is
 not something researchers need to do alone they also need help from the
-community around them [@barnes_publish_2010].
+community around them [@barnes_publish_2010]
 
 ### *Referances*
-
-::: {#refs}
-:::
 
 ### *Appendix*
 
@@ -184,3 +186,8 @@ community around them [@barnes_publish_2010].
 rmarkdown_workflow.png
 
 Roger Peng.PNG
+
+```{r Oppgave1}
+sessionInfo()
+
+```
