@@ -39,7 +39,7 @@ Barbara R.Jasny writes in an article that as new technologies produce
 more and different data to work with the knowledge [@jasny_again_2011]
 
 
-:
+
 
 Reproducibility means that you should be able to repeat a research with
 the same data and procedures that were used in an article.
@@ -82,9 +82,6 @@ other context or populations that differ from the original one"
 
 
 
->>>>>>> e0e54d3721b3799bb5fe51d51f8c8b6b4040b7b6
-
->>>>>>> bea810ab9b792a3ff0758e9dd1a7dc3536aa2651
 [![](Roger%20Peng.PNG)](https://www.jstor.org/stable/pdf/41352177.pdf?refreqid=excelsior%3A4042fa72b0c4b5ce6ed25e118e92172a)
 
 R Notebook with R Markdown
@@ -197,10 +194,6 @@ community around them [@barnes_publish_2010].
 
 @grolemund_r_nodate
 
-=======
-
->>>>>>> bea810ab9b792a3ff0758e9dd1a7dc3536aa2651
-=======
 rmarkdown_workflow.png
 
 Roger Peng.PNG
