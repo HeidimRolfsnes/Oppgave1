@@ -15,9 +15,9 @@ bibliography: reproducibility.bib
 
 R is a programming language that since its inception in 1993 has had a
 great growth in recent years, as programming has become a more popular
-career choice and are used by many. It was originally designed to be
+career choice and are now used by many. It was originally designed to be
 used interactively, where users first should get an answar and then get
-new answer by evolving the commands. in recent times, it has become a
+new answer by evolving the commands. In recent times, it has become a
 language that has evolved to cope with greater challanges. R can produce
 large graphs and reports. R is now used in many different research
 environments. R Can be perceived as more difficult than it is, if one
@@ -40,7 +40,7 @@ from start to it is finished, which is very important for a reproducible
 document. In addition, it is easy to test the notebooks for
 reproducibility.
 
-\#\#Definition:
+## Definition:
 
 Reproducibility means that you should be able to repeat a research with
 the same data and procedures that were used in an article.
@@ -186,6 +186,8 @@ community around them [@barnes_publish_2010]
 rmarkdown_workflow.png
 
 Roger Peng.PNG
+
+![](Skjermbilde%20av%20git%20history.PNG)
 
 ```{r Oppgave1}
 sessionInfo()
