@@ -1,6 +1,7 @@
 ---
 title: "Can R Notebooks help with reproducibility?"
 author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
+Adress: "Haugesund, Norway"
 date: "September 2021"
 output:
   pdf_document: default
@@ -164,7 +165,7 @@ community around them [@barnes_publish_2010].
 
 #### Referances
 
-\<div id="refs"\>\</div\>
+    <div id="refs"></div>
 
 #### **Appendix**
 
