@@ -24,7 +24,7 @@ environments. R Can be perceived as more difficult than it is, if one
 hasn't been involved in programming before. But if one spends time
 learning it, the benefits can be great, in the field of analysis and
 research. then the results can be more reliable and credible. In R there
-are different scripts like R Markdown and R Notebooks.
+are different scripts like R Markdown and R Notebooks.[@lander_r_2017]
 
 R Notebooks can be used to organize the methods that are used in a study
 or even the result. That will make it reproducibility. R Notebooks can
