@@ -4,10 +4,10 @@ author: "Av Ann Elisabeth Jacobsen og Heidi Marie Rolfsnes"
 address: "Haugesund, Norway"
 date: "September 2021"
 output:
-  word_document: default
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
+  word_document: default
 bibliography: reproducibility.bib
 ---
 
@@ -34,7 +34,8 @@ more and different data to work with the knowledge [@jasny_again_2011]
 
 **R notebook** "is an R Markdown document with chunks that can be
 executed independently and interactively, with output visible
-immediately beneath the input"@grolemund_r_nodate.
+immediately beneath the
+[input"\@grolemund_r\_nodate](mailto:input%22@grolemund_r_nodate){.email}.
 
 The terms reproducibility and replicability are used interchangeably in
 scientific circles. Some groups believe that reproducibility means
