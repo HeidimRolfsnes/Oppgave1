@@ -32,9 +32,10 @@ more and different data to work with the knowledge [@jasny_again_2011]
 
 ## Definition:
 
-***R notebook** is an R Markdown document with chunks that can be
-executed independently and interactively, with output visible
-immediately beneath the input. \@grolemund_r\_nodate*
+***R notebook** "* is an R Markdown document with chunks that can be
+executed
+independently and interactively, with output visible immediately beneath
+the input "\@grolemund_r\_nodate.
 
 The terms reproducibility and replicability are used interchangeably in
 scientific circles. Some groups believe that reproducibility means
@@ -56,8 +57,8 @@ condition. @bollen_social_2015
 an earlier study and manages to get the same result, but by collecting
 new data. @bollen_social_2015
 
-***Generalizability** refers to whether the result of a study apply in
-other context or populations that differ from the original one*
+**Generalizability** "refers to whether the result of a study apply in
+other context or populations that differ from the original one"
 @bollen_social_2015
 
 ### Picture
@@ -153,8 +154,8 @@ He points out that in 2007 NASA released a software that wasn't
 completely finished, but by releasing it before it was completely
 finished, they received held along the way so that it became both better
 and more user-friendly. Even if they got help, it didn't mean that NASA
-had released a bad program or taht the result after they released the
-first version gave a slighty worse result. NASA took the change with
+had released a bad program or that the result after they released the
+first version gave a slightly worse result. NASA took the change with
 them and made the software even better.
 
 In Conclusion, he writes that researchers must work together to create
