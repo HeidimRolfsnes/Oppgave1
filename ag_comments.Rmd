@@ -1,0 +1,10 @@
+---
+title: "ag comments"
+output: html_notebook
+---
+
+-   Måtte fikse litt på .bib filen før dokumentet kjørte. Maskinene
+    deres hadde hatt en liten krig om hvor filene var plassert lokalt på
+    harddisken. Jeg kommer tilbake med mer info om strategi for hvordan
+    en unngår dette (følg med på Canvas)
+-   
